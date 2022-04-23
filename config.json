@@ -1,0 +1,7 @@
+{
+	"token": "OTY2OTU5Mjc5ODkyNDgwMDIw.YmJVAQ.3dNP-MiNno2TxY5XndZxvT_FCrQ",
+	"prefix": "!",
+	"log_format": "%(asctime)s %(message)s",
+	"log_date":  "[%m/%d/%Y-%I:%M:%S]",
+	"historique_log": "historique_log.log"
+}

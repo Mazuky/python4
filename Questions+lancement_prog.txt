@@ -1,0 +1,9 @@
+Commande pour lancé le programme via un terminal:
+python LaurieBot2.py -c ! --config config.json
+
+1) Un bot est un robot intéractif que l'on peut programmer afin
+qu'il effectue des tâches de manière manuelle ou automatique.
+
+2) Un logging est une activiée, les logs eux, permettent de
+connaître l'activité d'un processus en alimentant un "journal"
+au moindre changement d'état (c'est a dire a la moindre activité).
